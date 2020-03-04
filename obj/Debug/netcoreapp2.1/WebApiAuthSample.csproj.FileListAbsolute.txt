@@ -1,0 +1,16 @@
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/bin/Debug/netcoreapp2.1/WebApiAuthSample.deps.json
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/bin/Debug/netcoreapp2.1/WebApiAuthSample.runtimeconfig.json
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/bin/Debug/netcoreapp2.1/WebApiAuthSample.runtimeconfig.dev.json
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/bin/Debug/netcoreapp2.1/WebApiAuthSample.dll
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/bin/Debug/netcoreapp2.1/WebApiAuthSample.pdb
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/obj/Debug/netcoreapp2.1/WebApiAuthSample.csprojAssemblyReference.cache
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/obj/Debug/netcoreapp2.1/WebApiAuthSample.RazorAssemblyInfo.cache
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/obj/Debug/netcoreapp2.1/WebApiAuthSample.RazorAssemblyInfo.cs
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/obj/Debug/netcoreapp2.1/WebApiAuthSample.AssemblyInfoInputs.cache
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/obj/Debug/netcoreapp2.1/WebApiAuthSample.AssemblyInfo.cs
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/obj/Debug/netcoreapp2.1/WebApiAuthSample.RazorTargetAssemblyInfo.cache
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/obj/Debug/netcoreapp2.1/WebApiAuthSample.dll
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/obj/Debug/netcoreapp2.1/WebApiAuthSample.pdb
