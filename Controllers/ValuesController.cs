@@ -42,7 +42,8 @@ namespace WebApiAuthSample.Controllers
             var result = new
             {
                 Id = id,
-                Value = id.ToString()
+                Value = id.ToString(),
+                AB = id
             };
 
             //200で成功

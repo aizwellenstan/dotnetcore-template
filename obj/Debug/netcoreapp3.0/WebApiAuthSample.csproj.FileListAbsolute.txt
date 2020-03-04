@@ -1,0 +1,5 @@
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/obj/Debug/netcoreapp3.0/WebApiAuthSample.csprojAssemblyReference.cache
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/obj/Debug/netcoreapp3.0/WebApiAuthSample.MvcApplicationPartsAssemblyInfo.cs
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/obj/Debug/netcoreapp3.0/WebApiAuthSample.MvcApplicationPartsAssemblyInfo.cache
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/obj/Debug/netcoreapp3.0/WebApiAuthSample.AssemblyInfoInputs.cache
+/Users/raphtalia/workspace/asp/WebApiAuthSample/src/WebApiAuthSample/obj/Debug/netcoreapp3.0/WebApiAuthSample.AssemblyInfo.cs

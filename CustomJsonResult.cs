@@ -103,7 +103,8 @@ namespace WebApiAuthSample
                 await response.WriteAsync(JsonConvert.SerializeObject(
                     Value, new JsonSerializerSettings()
                     {
-                        ContractResolver = new CamelCasePropertyNamesContractResolver(),
+                        // Lower Case
+                        // ContractResolver = new CamelCasePropertyNamesContractResolver(),
                         Converters = new List<JsonConverter>() { converter },
                         Formatting = Formatting.Indented,
                         StringEscapeHandling = StringEscapeHandling.Default,
